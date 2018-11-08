@@ -12,7 +12,7 @@ This of course implies that you have the g++ compiler installed.
 
 Afterwards you can execute the program:
 ```
-./pi_mc
+$ ./pi_mc
 ```
 
 When run it will ask you for the number of iterations. The higher the number, the more accurate will the computation of pi be. However, at the machine where this program was tested at around 523,000 iterations the program crashed with a segmentation fault.
